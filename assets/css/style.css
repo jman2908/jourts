@@ -9,27 +9,27 @@ h1 {
 }
 
 p {
-    font-size: 24px;
+    font-size: 20px;
     margin: 5%;
     font-family: 'PT Sans', sans-serif;
 }
 
 .blackcrystal {
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
 }
 
 .bluecrystal {
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
 }
 
 .browncrystal {
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
 }
 
 .greencrystal {
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
 }
