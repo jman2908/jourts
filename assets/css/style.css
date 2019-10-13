@@ -4,32 +4,55 @@ h1 {
     font-size: 117px;
     border: 2px solid black;
     margin: 1%;
-    font-family: 'Vibes', cursive;
+    font-family: 'Zhi Mang Xing', cursive;
     text-align: center;
 }
 
 p {
     font-size: 20px;
-    margin: 5%;
-    font-family: 'PT Sans', sans-serif;
+    margin: 3%;
+    margin-top: 3%;
+    font-family: 'Be Vietnam', sans-serif;
 }
 
 .blackcrystal {
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
+    align-items: center;
 }
 
 .bluecrystal {
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
+    align-items: center;
 }
 
 .browncrystal {
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
+    align-items: center;
 }
 
 .greencrystal {
-    width: 250px;
-    height: 250px;
+    width: 150px;
+    height: 150px;
+    align-items: center;
+}
+
+#randomNumber {
+    font-size: 20px;
+    margin: 15px;
+    text-align: center;
+}
+
+#wins {
+    font-size: 15px;
+    margin: 15px;
+    text-align: center;
+}
+
+#losses {
+    font-size: 15px;
+    margin: 15px;
+    text-align: center;
 }
