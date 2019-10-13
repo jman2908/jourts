@@ -33,7 +33,7 @@ $(document).ready(function() {
         var crystalNumber3 = Math.floor(Math.random() * 12) +1;
         var crystalNumber4 = Math.floor(Math.random() * 12) +1;
         userTotal = 0;
-        $("#finalTotal").text(userTotal);
+        $("#scoretext").text(userTotal);
     }
     //end of win and loser functions
     

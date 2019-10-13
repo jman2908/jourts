@@ -15,44 +15,55 @@ p {
     font-family: 'Be Vietnam', sans-serif;
 }
 
+.images {
+    
+}
 .blackcrystal {
     width: 150px;
     height: 150px;
-    align-items: center;
+    
 }
 
 .bluecrystal {
     width: 150px;
     height: 150px;
-    align-items: center;
+   
 }
 
 .browncrystal {
     width: 150px;
     height: 150px;
-    align-items: center;
+ 
 }
 
 .greencrystal {
     width: 150px;
     height: 150px;
-    align-items: center;
+
 }
 
 #randomNumber {
     font-size: 20px;
     margin: 15px;
     text-align: center;
+    font-family: 'Be Vietnam', sans-serif;
 }
 
 #wins {
     font-size: 15px;
     margin: 15px;
     text-align: center;
+    font-family: 'Be Vietnam', sans-serif;
 }
 
 #losses {
     font-size: 15px;
     margin: 15px;
     text-align: center;
+    font-family: 'Be Vietnam', sans-serif;
+}
+
+#finalTotal {
+    text-align: center;
+    font-family: 'Be Vietnam', sans-serif;
 }
